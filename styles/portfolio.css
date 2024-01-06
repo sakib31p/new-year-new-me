@@ -1,0 +1,69 @@
+/* common shared styles */
+body{
+    font-family: 'Work Sans', sans-serif;
+}
+
+/*BUTTON STYLE */
+.button {
+border-radius: 5px;
+background: #FD6E0A;
+text-align: right;
+font-size: 20px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+}
+nav h1 {
+     color: var(--Dark-01, #151414);
+     text-align: right;
+
+padding: 70px 65px;
+font-size: 65px;
+font-style: normal;
+max-width: 525px;
+height: 228px;
+}
+
+.sec1 {
+    background-image:url('../images/banner/banner1.png');
+    background-repeat: no-repeat;
+    padding-right: 5rem;
+    height: 600px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    text-align: right;
+} 
+.sec1-content{
+    width: 40%;
+
+}
+.sec2{
+    background-image: url('../images/person.png');
+    background-repeat: no-repeat;
+    
+    padding-right: 5rem;
+    height: 500px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    text-align: right;
+    text-align: justify;
+}
+.sec2-content{
+    width: 30%;
+}
+.sec-title{
+    font-size: 40px;
+    padding: 1rem;
+    margin: 47px 40px;
+}
+.sec-font{
+    font-size: 16px;
+    
+}
+.sec3{
+    text-align: center;
+    font-size: 40px;
+    
+}
