@@ -67,3 +67,24 @@ height: 228px;
     font-size: 40px;
     
 }
+/* skill releted style  */
+.skills-container{
+    display: flex;
+    gap: 25px;
+}
+.skill{
+    padding: 100px;
+    
+}
+.sec4{
+    
+    height: 300px;
+    background-image: url('../images/watch.png');
+    background-repeat: no-repeat;
+    border-radius: 8px;
+   
+    
+}
+.sec4-content{
+    margin: 49px;
+}
